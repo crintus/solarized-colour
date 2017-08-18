@@ -1,0 +1,20 @@
+{
+    "name": "solarized-colour",
+    "displayName": "Solarized (Colour)",
+    "description": "Solarized (Colour)",
+    "version": "0.0.1",
+    "publisher": "Johan du Plessis",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Solarized (Colour)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/solarized-colour.json"
+        }]
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Solarized custom",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#002B36",
+		"editor.foreground": "#839496",
+		"editor.lineHighlightBackground": "#1CD1FF12",
+		"editorLink.activeForeground": "#073642",
+		"activityBarBadge.background": "#1CD1FF12",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"tokenColors": "./solarized-colour.tmTheme"
+}
